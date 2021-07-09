@@ -1,3 +1,3 @@
 ### Playing with GitHub Pages
-####  https://santiagovegaf.github.io/pagina/
+####  https://santiagovegaf.github.io/Page/
 stonks
