@@ -1,3 +1,3 @@
-### Playing with GitHub Pages
-####  santiagov.com
-stonks
+### Personal page in progress
+####  [santiagov.com](santiagov.com)
+🌶️
